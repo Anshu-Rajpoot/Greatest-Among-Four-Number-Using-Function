@@ -1,6 +1,6 @@
 # Greatest-Among-Four-Number-Using-Function
-# Input Format: Input will contain four integers a,b,c and d.
-# Output Format: Return the greatest of the four integers.
+// Input Format: Input will contain four integers a,b,c and d.
+// Output Format: Return the greatest of the four integers.
 
 
 #include <iostream>
